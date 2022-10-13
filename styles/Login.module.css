@@ -1,0 +1,32 @@
+.card{
+  margin-top: 80px;
+  ;
+  /* width: 250px;
+  height: 300px; */
+  /* border-radius: 100px; */
+  
+}
+
+/* .card2{
+  border-radius: 20px;
+} */
+
+
+.input{
+  border-radius: 50px;
+}
+
+
+.button{
+  background: rgb(235, 239, 243);
+}
+
+.button:hover{
+  background: rgb(197, 201, 206);
+}
+
+
+
+.navlink{
+  max-width: 100px;
+}
